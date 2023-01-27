@@ -40,6 +40,8 @@ waffle(dumbtest,
 
 # Now it's sideways :(
 
+## dr adding this comments for testing
+
 waffle(dumbtest,
        rows = 10,
        colors = c("grey", "blue", "grey", "blue", "grey", "blue", "grey",
