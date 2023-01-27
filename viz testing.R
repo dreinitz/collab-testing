@@ -28,6 +28,8 @@ waffle(dumbtest,
                         "grey", "blue", "grey", "blue", "grey"),
                         legend_pos = "none")
 
+# LS got errors here. R doesn't like
+
 # It's upside down :(
 
 waffle(dumbtest,
